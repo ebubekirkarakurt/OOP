@@ -1,0 +1,14 @@
+C:\Users\ebuka\Desktop\OOP\Week_8\bin\Debug\net7.0\Week_8.exe
+C:\Users\ebuka\Desktop\OOP\Week_8\bin\Debug\net7.0\Week_8.deps.json
+C:\Users\ebuka\Desktop\OOP\Week_8\bin\Debug\net7.0\Week_8.runtimeconfig.json
+C:\Users\ebuka\Desktop\OOP\Week_8\bin\Debug\net7.0\Week_8.dll
+C:\Users\ebuka\Desktop\OOP\Week_8\bin\Debug\net7.0\Week_8.pdb
+C:\Users\ebuka\Desktop\OOP\Week_8\obj\Debug\net7.0\Week_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebuka\Desktop\OOP\Week_8\obj\Debug\net7.0\Week_8.AssemblyInfoInputs.cache
+C:\Users\ebuka\Desktop\OOP\Week_8\obj\Debug\net7.0\Week_8.AssemblyInfo.cs
+C:\Users\ebuka\Desktop\OOP\Week_8\obj\Debug\net7.0\Week_8.csproj.CoreCompileInputs.cache
+C:\Users\ebuka\Desktop\OOP\Week_8\obj\Debug\net7.0\Week_8.dll
+C:\Users\ebuka\Desktop\OOP\Week_8\obj\Debug\net7.0\refint\Week_8.dll
+C:\Users\ebuka\Desktop\OOP\Week_8\obj\Debug\net7.0\Week_8.pdb
+C:\Users\ebuka\Desktop\OOP\Week_8\obj\Debug\net7.0\Week_8.genruntimeconfig.cache
+C:\Users\ebuka\Desktop\OOP\Week_8\obj\Debug\net7.0\ref\Week_8.dll
