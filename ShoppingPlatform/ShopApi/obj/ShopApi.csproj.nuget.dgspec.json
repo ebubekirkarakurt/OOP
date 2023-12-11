@@ -1,0 +1,197 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ebuka\\Desktop\\OOP\\ShoppingPlatform\\ShopApi\\ShopApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ebuka\\Desktop\\OOP\\ShoppingPlatform\\ShopApi\\ShopApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ebuka\\Desktop\\OOP\\ShoppingPlatform\\ShopApi\\ShopApi.csproj",
+        "projectName": "ShopApi",
+        "projectPath": "C:\\Users\\ebuka\\Desktop\\OOP\\ShoppingPlatform\\ShopApi\\ShopApi.csproj",
+        "packagesPath": "C:\\Users\\ebuka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ebuka\\Desktop\\OOP\\ShoppingPlatform\\ShopApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ebuka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ebuka\\Desktop\\OOP\\ShoppingPlatform\\ShopEntities\\ShopEntities.csproj": {
+                "projectPath": "C:\\Users\\ebuka\\Desktop\\OOP\\ShoppingPlatform\\ShopEntities\\ShopEntities.csproj"
+              },
+              "C:\\Users\\ebuka\\Desktop\\OOP\\ShoppingPlatform\\ShopRepositories\\ShopRepositories.csproj": {
+                "projectPath": "C:\\Users\\ebuka\\Desktop\\OOP\\ShoppingPlatform\\ShopRepositories\\ShopRepositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ebuka\\Desktop\\OOP\\ShoppingPlatform\\ShopEntities\\ShopEntities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ebuka\\Desktop\\OOP\\ShoppingPlatform\\ShopEntities\\ShopEntities.csproj",
+        "projectName": "ShopEntities",
+        "projectPath": "C:\\Users\\ebuka\\Desktop\\OOP\\ShoppingPlatform\\ShopEntities\\ShopEntities.csproj",
+        "packagesPath": "C:\\Users\\ebuka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ebuka\\Desktop\\OOP\\ShoppingPlatform\\ShopEntities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ebuka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ebuka\\Desktop\\OOP\\ShoppingPlatform\\ShopRepositories\\ShopRepositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ebuka\\Desktop\\OOP\\ShoppingPlatform\\ShopRepositories\\ShopRepositories.csproj",
+        "projectName": "ShopRepositories",
+        "projectPath": "C:\\Users\\ebuka\\Desktop\\OOP\\ShoppingPlatform\\ShopRepositories\\ShopRepositories.csproj",
+        "packagesPath": "C:\\Users\\ebuka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ebuka\\Desktop\\OOP\\ShoppingPlatform\\ShopRepositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ebuka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ebuka\\Desktop\\OOP\\ShoppingPlatform\\ShopEntities\\ShopEntities.csproj": {
+                "projectPath": "C:\\Users\\ebuka\\Desktop\\OOP\\ShoppingPlatform\\ShopEntities\\ShopEntities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

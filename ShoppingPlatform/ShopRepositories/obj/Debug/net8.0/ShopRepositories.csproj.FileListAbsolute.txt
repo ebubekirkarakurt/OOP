@@ -1,0 +1,16 @@
+C:\Users\ebuka\Desktop\OOP\ShoppingPlatform\ShopRepositories\bin\Debug\net8.0\ShopRepositories.deps.json
+C:\Users\ebuka\Desktop\OOP\ShoppingPlatform\ShopRepositories\bin\Debug\net8.0\ShopRepositories.dll
+C:\Users\ebuka\Desktop\OOP\ShoppingPlatform\ShopRepositories\bin\Debug\net8.0\ShopRepositories.pdb
+C:\Users\ebuka\Desktop\OOP\ShoppingPlatform\ShopRepositories\bin\Debug\net8.0\ShopEntities.dll
+C:\Users\ebuka\Desktop\OOP\ShoppingPlatform\ShopRepositories\bin\Debug\net8.0\ShopEntities.pdb
+C:\Users\ebuka\Desktop\OOP\ShoppingPlatform\ShopRepositories\obj\Debug\net8.0\ShopRepositories.csproj.AssemblyReference.cache
+C:\Users\ebuka\Desktop\OOP\ShoppingPlatform\ShopRepositories\obj\Debug\net8.0\ShopRepositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebuka\Desktop\OOP\ShoppingPlatform\ShopRepositories\obj\Debug\net8.0\ShopRepositories.AssemblyInfoInputs.cache
+C:\Users\ebuka\Desktop\OOP\ShoppingPlatform\ShopRepositories\obj\Debug\net8.0\ShopRepositories.AssemblyInfo.cs
+C:\Users\ebuka\Desktop\OOP\ShoppingPlatform\ShopRepositories\obj\Debug\net8.0\ShopRepositories.csproj.CoreCompileInputs.cache
+C:\Users\ebuka\Desktop\OOP\ShoppingPlatform\ShopRepositories\obj\Debug\net8.0\ShopRepositories.sourcelink.json
+C:\Users\ebuka\Desktop\OOP\ShoppingPlatform\ShopRepositories\obj\Debug\net8.0\ShopRepositories.csproj.CopyComplete
+C:\Users\ebuka\Desktop\OOP\ShoppingPlatform\ShopRepositories\obj\Debug\net8.0\ShopRepositories.dll
+C:\Users\ebuka\Desktop\OOP\ShoppingPlatform\ShopRepositories\obj\Debug\net8.0\refint\ShopRepositories.dll
+C:\Users\ebuka\Desktop\OOP\ShoppingPlatform\ShopRepositories\obj\Debug\net8.0\ShopRepositories.pdb
+C:\Users\ebuka\Desktop\OOP\ShoppingPlatform\ShopRepositories\obj\Debug\net8.0\ref\ShopRepositories.dll

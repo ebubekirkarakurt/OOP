@@ -1,0 +1,12 @@
+C:\Users\ebuka\Desktop\OOP\ShoppingPlatform\ShopEntities\bin\Debug\net8.0\ShopEntities.deps.json
+C:\Users\ebuka\Desktop\OOP\ShoppingPlatform\ShopEntities\bin\Debug\net8.0\ShopEntities.dll
+C:\Users\ebuka\Desktop\OOP\ShoppingPlatform\ShopEntities\bin\Debug\net8.0\ShopEntities.pdb
+C:\Users\ebuka\Desktop\OOP\ShoppingPlatform\ShopEntities\obj\Debug\net8.0\ShopEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebuka\Desktop\OOP\ShoppingPlatform\ShopEntities\obj\Debug\net8.0\ShopEntities.AssemblyInfoInputs.cache
+C:\Users\ebuka\Desktop\OOP\ShoppingPlatform\ShopEntities\obj\Debug\net8.0\ShopEntities.AssemblyInfo.cs
+C:\Users\ebuka\Desktop\OOP\ShoppingPlatform\ShopEntities\obj\Debug\net8.0\ShopEntities.csproj.CoreCompileInputs.cache
+C:\Users\ebuka\Desktop\OOP\ShoppingPlatform\ShopEntities\obj\Debug\net8.0\ShopEntities.sourcelink.json
+C:\Users\ebuka\Desktop\OOP\ShoppingPlatform\ShopEntities\obj\Debug\net8.0\ShopEntities.dll
+C:\Users\ebuka\Desktop\OOP\ShoppingPlatform\ShopEntities\obj\Debug\net8.0\refint\ShopEntities.dll
+C:\Users\ebuka\Desktop\OOP\ShoppingPlatform\ShopEntities\obj\Debug\net8.0\ShopEntities.pdb
+C:\Users\ebuka\Desktop\OOP\ShoppingPlatform\ShopEntities\obj\Debug\net8.0\ref\ShopEntities.dll
