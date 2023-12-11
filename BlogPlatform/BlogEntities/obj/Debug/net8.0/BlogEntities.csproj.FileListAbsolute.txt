@@ -1,0 +1,12 @@
+C:\Users\ebuka\Desktop\OOP\Week9\BlogPlatform\BlogEntities\bin\Debug\net8.0\BlogEntities.deps.json
+C:\Users\ebuka\Desktop\OOP\Week9\BlogPlatform\BlogEntities\bin\Debug\net8.0\BlogEntities.dll
+C:\Users\ebuka\Desktop\OOP\Week9\BlogPlatform\BlogEntities\bin\Debug\net8.0\BlogEntities.pdb
+C:\Users\ebuka\Desktop\OOP\Week9\BlogPlatform\BlogEntities\obj\Debug\net8.0\BlogEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebuka\Desktop\OOP\Week9\BlogPlatform\BlogEntities\obj\Debug\net8.0\BlogEntities.AssemblyInfoInputs.cache
+C:\Users\ebuka\Desktop\OOP\Week9\BlogPlatform\BlogEntities\obj\Debug\net8.0\BlogEntities.AssemblyInfo.cs
+C:\Users\ebuka\Desktop\OOP\Week9\BlogPlatform\BlogEntities\obj\Debug\net8.0\BlogEntities.csproj.CoreCompileInputs.cache
+C:\Users\ebuka\Desktop\OOP\Week9\BlogPlatform\BlogEntities\obj\Debug\net8.0\BlogEntities.sourcelink.json
+C:\Users\ebuka\Desktop\OOP\Week9\BlogPlatform\BlogEntities\obj\Debug\net8.0\BlogEntities.dll
+C:\Users\ebuka\Desktop\OOP\Week9\BlogPlatform\BlogEntities\obj\Debug\net8.0\refint\BlogEntities.dll
+C:\Users\ebuka\Desktop\OOP\Week9\BlogPlatform\BlogEntities\obj\Debug\net8.0\BlogEntities.pdb
+C:\Users\ebuka\Desktop\OOP\Week9\BlogPlatform\BlogEntities\obj\Debug\net8.0\ref\BlogEntities.dll
