@@ -500,11 +500,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ebuka\\Desktop\\OOP\\Week9\\BlogPlatform\\BlogApi\\BlogApi.csproj",
+      "projectUniqueName": "C:\\Users\\ebuka\\Desktop\\OOP\\BlogPlatform\\BlogApi\\BlogApi.csproj",
       "projectName": "BlogApi",
-      "projectPath": "C:\\Users\\ebuka\\Desktop\\OOP\\Week9\\BlogPlatform\\BlogApi\\BlogApi.csproj",
+      "projectPath": "C:\\Users\\ebuka\\Desktop\\OOP\\BlogPlatform\\BlogApi\\BlogApi.csproj",
       "packagesPath": "C:\\Users\\ebuka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ebuka\\Desktop\\OOP\\Week9\\BlogPlatform\\BlogApi\\obj\\",
+      "outputPath": "C:\\Users\\ebuka\\Desktop\\OOP\\BlogPlatform\\BlogApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ebuka\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -521,11 +521,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ebuka\\Desktop\\OOP\\Week9\\BlogPlatform\\BlogEntities\\BlogEntities.csproj": {
-              "projectPath": "C:\\Users\\ebuka\\Desktop\\OOP\\Week9\\BlogPlatform\\BlogEntities\\BlogEntities.csproj"
+            "C:\\Users\\ebuka\\Desktop\\OOP\\BlogPlatform\\BlogEntities\\BlogEntities.csproj": {
+              "projectPath": "C:\\Users\\ebuka\\Desktop\\OOP\\BlogPlatform\\BlogEntities\\BlogEntities.csproj"
             },
-            "C:\\Users\\ebuka\\Desktop\\OOP\\Week9\\BlogPlatform\\BlogRepositories\\BlogRepositories.csproj": {
-              "projectPath": "C:\\Users\\ebuka\\Desktop\\OOP\\Week9\\BlogPlatform\\BlogRepositories\\BlogRepositories.csproj"
+            "C:\\Users\\ebuka\\Desktop\\OOP\\BlogPlatform\\BlogRepositories\\BlogRepositories.csproj": {
+              "projectPath": "C:\\Users\\ebuka\\Desktop\\OOP\\BlogPlatform\\BlogRepositories\\BlogRepositories.csproj"
             }
           }
         }
